@@ -15,3 +15,5 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+sed -i '$a src-git lienol https://github.com/bsshimin/lede/tree/master/package/lede' feeds.conf.default
+git clone https://github.com/bsshimin/lede/tree/master/package/lede package/luci-app-ssr-plus
