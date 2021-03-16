@@ -19,3 +19,4 @@
 # src-git small https://github.com/kenzok8/small
 # src-git kenzo https://github.com/kenzok8/openwrt-packages
 # git clone https://github.com/bsshimin/lede/tree/master/package/lean lean/luci-app-ssr-plus
+git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
