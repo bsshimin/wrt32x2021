@@ -20,5 +20,5 @@
 # src-git kenzo https://github.com/kenzok8/openwrt-packages
 # git clone https://github.com/bsshimin/lede/tree/master/package/lean lean/luci-app-ssr-plus
 git clone https://github.com/fw876/helloworld package/helloworld
-git clone https://github.com/bsshimin/lean package/lean
+# git clone https://github.com/bsshimin/lean package/lean
 # git clone https://github.com/bsshimin/hack-4.14 target/linux/generic/hack-5.4
