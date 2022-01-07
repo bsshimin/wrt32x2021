@@ -21,3 +21,4 @@
 # git clone https://github.com/bsshimin/lede/tree/master/package/lean lean/luci-app-ssr-plus
 git clone https://github.com/fw876/helloworld package/helloworld
 git clone https://github.com/bsshimin/lean package/lean
+git clone https://github.com/bsshimin/952-net-conntrack-events-support-multiple-registrant.patch target/linux/generic/hack-4.14/952-net-conntrack-events-support-multiple-registrant.patch
