@@ -20,15 +20,15 @@
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
 # git clone https://github.com/bsshimin/lede/tree/master/package/lean lean/luci-app-ssr-plus
 git clone https://github.com/fw876/helloworld package/helloworld
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/luci-app-turboacc
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/openwrt-fullconenat
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/dns2socks
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/dnsforwarder
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/dnsproxy
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/ipt2socks
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/luci-app-netdata
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/luci-app-pppoe-relay
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/microsocks
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/pdnsd-alt
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/redsocks2
-git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean package/lean/shortcut-fe
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/leanluci-app-turboacc/ package/lean/luci-app-turboacc
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean//openwrt-fullconenat/ package/lean/openwrt-fullconenat
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/dns2socks/ package/lean/dns2socks
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/openwrt-fullconenat/ package/lean/openwrt-fullconenat
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/dnsproxy/ package/lean/dnsproxy
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/ipt2socks/ package/lean/ipt2socks
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-netdata/ package/lean/luci-app-netdata
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-pppoe-relay/ package/lean/luci-app-pppoe-relay
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/microsocks/ package/lean/microsocks
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/pdnsd-alt/ package/lean/pdnsd-alt
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/redsocks2/ package/lean/redsocks2
+git clone https://github.com/coolsnowwolf/lede/tree/master/package/lean/shortcut-fe/ package/lean/shortcut-fe
