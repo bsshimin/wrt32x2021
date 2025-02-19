@@ -35,9 +35,9 @@ jobs:
   build:
     runs-on: ubuntu-22.04
 
-steps:
+    steps:
     - name: Remove unnecessary files
-        run: |
+      run: |
           sudo rm -rf /usr/share/dotnet
           sudo rm -rf "$AGENT_TOOLSDIRECTORY"
     
